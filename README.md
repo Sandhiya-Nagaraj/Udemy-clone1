@@ -11,4 +11,4 @@ Purpose
 
 This project was created for practicing front-end web development and improving skills in webpage structuring, styling, and responsive design.
 
-Live Demo 
+Live Demo : https://sandhiya-nagaraj.github.io/Udemy-clone1/
